@@ -2,7 +2,6 @@
 ![](https://img.shields.io/static/v1?label=build&message=passing&color=blue)
 ![](https://img.shields.io/github/license/luan4g/Ecoleta-NLW01?color=blue)
 
-
 ![](https://img.shields.io/badge/node-v12.16.3-blue?style=social&logo=Node.js&logoColor=black)
 ![](https://img.shields.io/badge/npm-v6.14.4-white?style=social&logo=npm)
 ![](https://img.shields.io/badge/expo-v3.21.3-white?style=social&logo=Expo&color=black)
